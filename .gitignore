@@ -1,0 +1,15 @@
+# Java build output
+bin/
+out/
+*.class
+
+# Local runtime data
+files/userDatabase.txt
+files/userTasks.txt
+
+# IDE metadata
+.metadata/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
